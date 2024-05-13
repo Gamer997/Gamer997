@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since born<br>📚 I'm currently Working on Machine Learning<br>🎯 Goals: 1. Leet code<br> 2. Machine Learning<br> 3.Building Apps <br>🎲 Fun fact: There is no funfact</p>
+<p align="left">✨ Creating bugs since born<br>📚 I'm currently Working on Machine Learning<br>🎯 Goals: <br>1. Leet code<br> 2. Machine Learning<br> 3.Building Apps <br>🎲 Fun fact: There is no funfact</p>
 
 ###
 
