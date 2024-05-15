@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Shahzaib Ali and I'm a Ai/ML Devoloper </p>
+<p align="left">My name is Shahzaib Ali and I'm a Ai/ML Student </p>
 
 ###
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since born<br>📚 I'm currently Working on Machine Learning<br>🎯 Goals: <br>1. Leet code<br> 2. Machine Learning<br> 3.Building Apps <br>🎲 Fun fact: There is no funfact</p>
+<p align="left">✨ Creating bugs since born<br>📚 I'm currently Learning on Machine Learning<br>🎯 Goals: <br>1. Master AI/Machine Learning <br> 2. Competitive Programming<br> 3.Building a strong Network<br>🎲 </p>Fun fact: My GitHub profile resembles a multi-language code playground! Like Python, it's dynamic and expressive; like C++, it's powerful and performance-oriented; and like C#, it's versatile and efficient.</p>
 
 ###
 
